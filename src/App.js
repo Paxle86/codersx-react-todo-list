@@ -18,6 +18,12 @@ function App() {
         >
           Learn React
         </a>
+        <ul>Todos list
+          <li>Go to market</li>
+          <li>Making dinner</li>
+          <li>Go to bed</li>
+
+        </ul>
       </header>
     </div>
   );
